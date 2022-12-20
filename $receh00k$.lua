@@ -3084,7 +3084,7 @@ end
 
 local GameTitle = ""
 local GameList = {
-	["Criminality"] = 10716783997
+	["Criminality"] = 10716783997, 11353105682
 }
 for Name, ID in next, GameList do
 	if game.GameId == ID then
